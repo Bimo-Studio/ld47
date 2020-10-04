@@ -8,6 +8,11 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "phaser": "^3.24.1"
+    "@ion-phaser/react": "^1.2.2",
+    "phaser": "^3.24.1",
+    "react-native": "^0.63.3"
+  },
+  "devDependencies": {
+    "snowpack": "^2.13.1"
   }
 }
