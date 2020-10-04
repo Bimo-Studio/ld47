@@ -1,0 +1,13 @@
+{
+  "name": "ld47",
+  "version": "1.0.0",
+  "description": "Our first Ludum Dare game",
+  "main": "index.js",
+  "repository": "https://github.com/bimo-Studio/ld47/",
+  "author": "Alex Wykoff",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "phaser": "^3.24.1"
+  }
+}
